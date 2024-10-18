@@ -1,4 +1,5 @@
-[Module Info] AC/DC Converter
-Converts power from a standard wall outlet (AC) to the required DC power for the MRI scanner. This module is compact and connects to the PSU via a secure locking cable. It also contains cooling fans and heat sinks to ensure the unit remains at an optimal operating temperature.
+[Module Name] AC/DC Converter
+[Module Info] Converts power from a standard wall outlet (AC) to the required DC power for the MRI scanner. This module is compact and connects to the PSU via a secure locking cable. It also contains cooling fans and heat sinks to ensure the unit remains at an optimal operating temperature.
+
 
 [Requirements]
